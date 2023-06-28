@@ -1,8 +1,12 @@
 {
-  "name": "hardhat-project",
+  "name": "hardhat-foundry-template",
   "devDependencies": {
     "@nomicfoundation/hardhat-foundry": "^1.0.2",
     "@nomicfoundation/hardhat-toolbox": "^2.0.2",
-    "hardhat": "^2.16.1"
+    "@typescript-eslint/eslint-plugin": "^5.60.1",
+    "eslint": "^8.43.0",
+    "eslint-config-prettier": "^8.8.0",
+    "hardhat": "^2.16.1",
+    "prettier-plugin-solidity": "^1.1.3"
   }
 }
